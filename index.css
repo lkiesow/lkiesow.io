@@ -1,15 +1,15 @@
 body {
-	color: #ffffff;
+	color: #fff;
 	background-color: #000000;
 	font-size: 16px;
 	font-family: sans-serif;
-	max-width: 1300px;
+	max-width: 1000px;
 	margin: 0 auto;
 	text-align: center;
 }
 
 header {
-	color: #666;
+	color: #999;
 	display: block;
 	margin: 30px;
 	margin-left: auto;
@@ -20,23 +20,23 @@ header {
 }
 
 header h1 {
-	color: #333;
+	color: #666;
 }
 
 a {
 	text-decoration: none;
 	display: inline-block;
 	max-width: 300px;
-	border: 1px solid #555555;
-	background-color: #222222;
+	border: 1px solid #aaa;
+	background-color: #555;
 	margin: 25px;
 	padding: 15px 25px;
-	color: #666;
+	color: #aaa;
 }
 
 a:hover {
-	background-color: #333;
-	color: #aaa;
+	background-color: #777;
+	color: #eee;
 }
 
 a img {
